@@ -7,4 +7,4 @@
 ## Proyecto III
 [[GOT]](https://github.com/R3DP4R4D153/PROYECTO-III-GOT)
 ## Acerca del Portafolio:
-* [[ABOUT]](https://github.com/R3DP4R4D153/T3C-D4T0S-II/wiki/About)
+[[ABOUT]](https://github.com/R3DP4R4D153/T3C-D4T0S-II/wiki/About)
